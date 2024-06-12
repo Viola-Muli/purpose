@@ -1,0 +1,12 @@
+div{
+    display: flex;
+
+}
+img {
+    width: 200px;
+    height: 200px
+}
+p{
+    margin: auto;
+    margin-left: 15px;
+}

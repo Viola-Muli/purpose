@@ -1,0 +1,39 @@
+body{
+    background-color: purple;
+}
+form{
+    background-color: whitesmoke;
+  margin-left:400px;
+   margin-top: 100px;
+    width:250px;
+    height: 400px;
+    padding: 20px;
+
+}
+legend{
+    font-weight: bolder;
+    text-align: center;
+    line-height: 30px;
+}
+button{
+    color: whitesmoke;
+    width: 200px;
+    height: 30px;
+color: black;
+}
+button:hover{
+    background-color: blue;
+}
+#body{
+display:flex ;
+    width: 700px;
+
+
+}
+img{
+    width: 500px;
+    height: 440px;
+    margin-top: 100px;
+}
+
+

@@ -1,0 +1,27 @@
+form{
+    background-color: rosybrown;
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+}
+.fname{
+    display: flex ;
+    margin-bottom: 10px;
+    align-items: center;
+}
+label{
+    width:25%;
+    margin-right: 5px;
+}
+input[type=text],input[type=email],input[type=date],input[type=file],textarea{
+    width: 60%;
+    height: 40px;
+}
+fieldset{
+    border: 2px solid black;
+}
+input[type=text],textarea,input[type=email],input[type=date]:focus{
+    background-color: lightpink;
+}
+
+

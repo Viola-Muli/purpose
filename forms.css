@@ -1,0 +1,31 @@
+form{
+    background-color: steelblue;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: 5px 12px 12px darkcyan;
+}
+legend{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+    color: #8b004f;
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+button {
+    background-color: peru;
+    width: 200px;
+    height: 40px;
+    color: darkcyan;
+}
+button:hover{
+    background-color: antiquewhite;
+}
+
